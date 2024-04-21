@@ -1,11 +1,7 @@
-import { View, Text } from "react-native"
+import LoginPage from "./pages/LoginPage";
 
 const HomePage = () => {
-  return (
-    <View>
-      <Text>Test</Text>
-    </View>
-  )
-}
+  return <LoginPage />;
+};
 
-export default HomePage
+export default HomePage;

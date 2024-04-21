@@ -1,0 +1,96 @@
+{
+  "currentPage": 1,
+  "totalPages": 2,
+  "data": [
+    {
+      "id": 1,
+      "amount": 12123.45,
+      "date": "2024-04-22T10:00:00.000Z",
+      "description": "Payment for groceries at Acme Market",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "successful"
+    },
+    {
+      "id": 2,
+      "amount": 50.00,
+      "date": "2024-04-18T15:30:00.000Z",
+      "description": "Movie ticket purchase",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "amount": 123.45,
+      "date": "2024-04-22T10:00:00.000Z",
+      "description": "Payment for groceries at Acme Market",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "amount": 50.00,
+      "date": "2024-04-18T15:30:00.000Z",
+      "description": "Movie ticket purchase",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "amount": 123.45,
+      "date": "2024-04-22T10:00:00.000Z",
+      "description": "Payment for groceries at Acme Market",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "amount": 50.00,
+      "date": "2024-04-18T15:30:00.000Z",
+      "description": "Movie ticket purchase",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "amount": 123.45,
+      "date": "2024-04-22T10:00:00.000Z",
+      "description": "Payment for groceries at Acme Market",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "amount": 50.00,
+      "date": "2024-04-18T15:30:00.000Z",
+      "description": "Movie ticket purchase",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "amount": 123.45,
+      "date": "2024-04-22T10:00:00.000Z",
+      "description": "Payment for groceries at Acme Market",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "amount": 150.00,
+      "date": "2024-04-18T15:30:00.000Z",
+      "description": "Movie ticket purchase",
+      "type": "debit",
+      "merchantName": "Family Mart",
+      "status": "pending"
+    }
+  ]
+}
